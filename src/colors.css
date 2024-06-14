@@ -1,0 +1,114 @@
+
+/* Color Palette */
+:root {
+    --color-white: #fff;
+    --color-black: #000;
+    --color-neutral-lighter: #f8f8f9;
+    --color-neutral-light: #e3e6e9;
+    --color-neutral-medium: #b9bfc7;
+    --color-neutral-normal: #667180;
+    --color-neutral-shaded: #3c3f47;
+    --color-neutral-dark: #24272d;
+    --color-neutral-darker: #17181c;
+  
+    
+    /* Red */
+    --color-red-lighter: #fcc0c0;
+    --color-red-light: #faa9a9;
+    --color-red-medium: #e97676;
+    --color-red-normal: #e00c0c;
+    --color-red-shaded: #890606;
+    --color-red-dark: #740606;
+    --color-red-darker: #4e0404;
+  
+    /* Yellow */
+    --color-yellow-lighter: #fdf7d4;
+    --color-yellow-light: #fbf2c5;
+    --color-yellow-medium: #e8c87e;
+    --color-yellow-normal: #e4ba10;
+    --color-yellow-shaded: #8d7400;
+    --color-yellow-dark: #8d3709;
+    --color-yellow-darker: #5c2400;
+  
+    /* Orange */
+    --color-orange-lighter: #fac8a5;
+    --color-orange-light: #f9ac8a;
+    --color-orange-medium: #f3814e;
+    --color-orange-normal: #f46a2e;
+    --color-orange-shaded: #933107;
+    --color-orange-dark: #933107;
+    --color-orange-darker: #621e00;
+  
+    /* Light Green */
+    --color-light-green-lighter: #dbf1bd;
+    --color-light-green-light: #e2f9c4;
+    --color-light-green-medium: #a0d164;
+    --color-light-green-normal: #82d317;
+    --color-light-green-shaded: #3e6d05;
+    --color-light-green-dark: #385b0a;
+    --color-light-green-darker: #213c00;
+  
+    /* Green */
+    --color-green-lighter: #d1f0c9;
+    --color-green-light: #bbf3ca;
+    --color-green-medium: #5bb466;
+    --color-green-normal: #1eab44;
+    --color-green-shaded: #136c2d;
+    --color-green-dark: #115f26;
+    --color-green-darker: #0a3815;
+  
+    /* Mint Green */
+    --color-mint-green-lighter: #d2fcde;
+    --color-mint-green-light: #8cf9d5;
+    --color-mint-green-medium: #3dd8a3;
+    --color-mint-green-normal: #0bd894;
+    --color-mint-green-shaded: #068a67;
+    --color-mint-green-dark: #078058;
+    --color-mint-green-darker: #035036;
+  
+    /* Light Blue */
+    --color-light-blue-lighter: #d6f8fc;
+    --color-light-blue-light: #b9eefb;
+    --color-light-blue-medium: #76cde8;
+    --color-light-blue-normal: #35cef4;
+    --color-light-blue-shaded: #1c7ea3;
+    --color-light-blue-dark: #087a97;
+    --color-light-blue-darker: #054c5f;
+  
+    /* Blue */
+    --color-blue-lighter: #c6dfff;
+    --color-blue-light: #9dbffa;
+    --color-blue-medium: #4d95e6;
+    --color-blue-normal: #1666f3;
+    --color-blue-shaded: #0d398c;
+    --color-blue-dark: #07327f;
+    --color-blue-darker: #042059;
+  
+    /* Purple */
+    --color-purple-lighter: #d5caf9;
+    --color-purple-light: #c7b4fb;
+    --color-purple-medium: #7753db;
+    --color-purple-normal: #4d11f3;
+    --color-purple-shaded: #2e0c8a;
+    --color-purple-dark: #26077e;
+    --color-purple-darker: #190452;
+  
+    /* Violet */
+    --color-violet-light: #f7ddfb;
+    --color-violet-lighter: #f8e4fd;
+    --color-violet-medium: #c82ec1;
+    --color-violet-normal: #bb18d9;
+    --color-violet-shaded: #a210bc;
+    --color-violet-dark: #8a12a0;
+    --color-violet-darker: #751c84;
+  
+    /* Pink */
+    --color-pink-light: #faa5d1;
+    --color-pink-lighter: #fbacd8;
+    --color-pink-medium: #d21579;
+    --color-pink-normal: #d80c75;
+    --color-pink-shaded: #b00a60;
+    --color-pink-dark: #6f063c;
+    --color-pink-darker: #5a0d34;
+  }
+  

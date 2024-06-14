@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "kozom-staging-70fbb"
+  },
+  "firebaseConfig": {
+    "apiKey": "AIzaSyAtSEUCxtaCE2OuylbWaILy6iFL8AXdGoM",
+    "authDomain": "kozom-staging-70fbb.firebaseapp.com",
+    "projectId": "kozom-staging-70fbb",
+    "storageBucket": "kozom-staging-70fbb.appspot.com",
+    "messagingSenderId": "1008892034989",
+    "appId": "1:1008892034989:web:eb0afdac3000f0d6ef6b24",
+    "measurementId": "G-KFWCRVBCY2"
+  }
+}

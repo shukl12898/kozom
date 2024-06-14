@@ -1,0 +1,83 @@
+:root {
+  /* Design Tokens */
+
+  /* Breakpoints */
+  --breakpoint-small: 480px;
+  --breakpoint-medium: 768px;
+  --breakpoint-large: 1024px;
+
+  /* Background Colors */
+  --bg-color-default-primary: #484848;
+  --bg-color-default-secondary: #789abc;
+  --bg-color-default-tertiary: #2f2f2f;
+  --bg-color-default-disabled: #3c3d3e;
+
+  /* Border Radii */
+  --border-radius-box: 24px;
+  --border-radius-button: 8px;
+  --border-radius-switch: 24px;
+  --border-radius-toggle-group: 12px;
+  --border-radius-input: 4px;
+
+  /* Elevation */
+  --elevation-small: 0 3px 5px rgba(0, 0, 0, 0.2);
+  --elevation-medium: 0 0 50px #ccc;
+
+  /* Text */
+  --font-family: 'Arial';
+  --font-weight-thin: 100;
+  --font-weight-extra-light: 200;
+  --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semi-bold: 600;
+  --font-weight-bold: 700;
+  --font-weight-extra-bold: 800;
+
+  /* Text Colors */
+  --text-color-white: #fff;
+  --text-color-black: #000;
+
+  /* Text Sizes */
+  --text-size-h1: 5rem;
+  --text-size-h2: 4rem;
+  --text-size-h3: 3rem;
+  --text-size-h4: 2.5rem;
+  --text-size-h5: 2rem;
+
+  /* Transitions */
+  --transition-faster: 0.15s all ease-in-out;
+  --transition-fast: 0.2s all ease-in-out;
+  --transition-normal: 0.33s all ease-in-out;
+  --transition-slow: 0.5s all ease-in-out;
+}
+
+:root {
+  font-family: var(--font-family);
+  color-scheme: light dark;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: var(--bg-color-default-primary);
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+}
+
